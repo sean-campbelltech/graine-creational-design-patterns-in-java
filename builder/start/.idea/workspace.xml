@@ -1,13 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aad1d5ea-07b4-4d2c-9982-743ea9cb278a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/src/main/java/com/campbelltech/EnglandFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/src/main/java/com/campbelltech/InternationalFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/src/main/java/com/campbelltech/InternationalProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/src/main/java/com/campbelltech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../abstract-factory/start/src/main/java/com/campbelltech/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../abstract-factory/start/src/main/java/com/campbelltech/SpainFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../end/src/main/java/com/campbelltech/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/../end/src/main/java/com/campbelltech/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/campbelltech/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/campbelltech/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/campbelltech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/campbelltech/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../factory-method/start/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../factory-method/start/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/payments/PayPalPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/payments/impl/PayPalPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/payments/PaymentFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/payments/enums/PaymentMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../factory-method/start/src/main/java/com/campbelltech/payments/impl/ApplePayPayment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prototype/start/src/main/java/com/campbelltech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../prototype/start/src/main/java/com/campbelltech/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prototype/start/src/main/java/com/campbelltech/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../prototype/start/src/main/java/com/campbelltech/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../prototype/start/src/main/java/com/campbelltech/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../prototype/start/src/main/java/com/campbelltech/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/BillPughSingletonLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/EagerInitializedSingletonLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/LazyInitializedSingletonLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/SingletonBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/StaticBlockSingletonLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../singleton/start/src/main/java/com/campbelltech/ThreadSafeSingletonLogger.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="builder" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sean-cmp-impact"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sean-campbelltech/graine-creational-design-patterns-in-java.git",
+    "accountId": "08253d55-0465-4296-b0dd-a84a3f7301cd"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.11/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2uIgJkA1snEzaQf584tTjdcWC0S" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.start [:com.campbelltech.Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/seancampbell/Documents/Source/graine-creational-design-patterns-in-java/builder/start",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad1d5ea-07b4-4d2c-9982-743ea9cb278a" name="Changes" comment="" />
+      <created>1741941432500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741941432500</updated>
+      <workItem from="1741941433480" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
 </project>

@@ -66,10 +66,6 @@ public class Email {
         return attachments;
     }
 
-    public static EmailBuilder builder() {
-        return new EmailBuilder();
-    }
-
     public void send() {
         System.out.println(MessageFormat.format(
                 "Email successfully sent from {0} to {1} with subject {2}",
@@ -77,47 +73,5 @@ public class Email {
         ));
     }
 
-    // Builder
-    public static class EmailBuilder {
-        private final Email email = new Email();
-
-        public EmailBuilder addFrom(String from) {
-            email.setFrom(from);
-            return this;
-        }
-
-        public EmailBuilder addTo(String to) {
-            email.getTo().add(to);
-            return this;
-        }
-
-        public EmailBuilder addCc(String cc) {
-            email.getCc().add(cc);
-            return this;
-        }
-
-        public EmailBuilder addBcc(String bcc) {
-            email.getBcc().add(bcc);
-            return this;
-        }
-
-        public EmailBuilder withSubject(String subject) {
-            email.setSubject(subject);
-            return this;
-        }
-
-        public EmailBuilder withBody(String body) {
-            email.setBody(body);
-            return this;
-        }
-
-        public EmailBuilder addAttachment(String attachment) {
-            email.getAttachments().add(attachment);
-            return this;
-        }
-
-        public Email build() {
-            return email;
-        }
-    }
+    // TODO: Add Builder
 }

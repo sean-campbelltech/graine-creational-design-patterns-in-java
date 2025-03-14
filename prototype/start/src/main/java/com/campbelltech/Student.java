@@ -19,8 +19,7 @@ public class Student extends Person {
 
     @Override
     public Student clone() {
-        Student studentCopy = (Student)super.clone();
-        studentCopy.setTeacher(new Teacher(studentCopy.getTeacher().getName(), studentCopy.getTeacher().getCourse()));
-        return studentCopy;
+        // TODO: Implement clone method
+        return null;
     }
 }

@@ -17,12 +17,7 @@ public abstract class Person implements Cloneable {
     }
 
     public Person clone() {
-        try {
-            return (Person)super.clone();
-        }
-        catch (CloneNotSupportedException e) {
-            e.printStackTrace();
-        }
+        // TODO: Implement clone method
         return null;
     }
 }
